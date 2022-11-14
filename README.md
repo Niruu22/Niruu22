@@ -47,7 +47,7 @@
 </h2>
 
 <p align="center">
-  <a href="https://github.com/rahul-masal/Linux-Commands"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rahul-masal&repo=Linux-Commands&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="Linux-Commands"></a>
+  <a href="https://github.com/Niruu22/Exam-Portal"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Niruu22&repo=Exam-Portal&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="Exam-Portal"></a>
   <a href="https://github.com/rahul-masal/vim-cheatsheet-"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rahul-masal&repo=vim-cheatsheet-&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="vim-cheatsheet"></a>
   <a href="https://github.com/rahul-masal/cron-cheatsheet"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rahul-masal&repo=cron-cheatsheet&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="cron-cheatsheet"></a>
   <a href="https://github.com/rahul-masal/Grep-Cheatsheet"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rahul-masal&repo=Grep-Cheatsheet&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="Grep-Cheatsheet"></a>
