@@ -11,17 +11,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=A02CFD&width=435&lines=%F0%9F%91%8B+Hi!+Niraj+here+%3AD;An+enthusiastic+programmer+and;who+loves+to+explore%2C;automate%2C+break%2C;learn%2C+and+hack+all+things!;I+like+to+build+and;learn+in+the+open%2C;sharing+new+projects%2C+insights;and+thoughts%2C+both+on+Twitter;" alt="Typing SVG" /></a>
 </p>
 
-<p align="center">
-  <a href="https://www.youtube.com/c/knowinganddoing"><img width="32px" alt="Youtube" title="Youtube" src="https://github.com/0xTRAW/0xTRAW/blob/main/.github/purpleyoutube.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/Rahul_Masal_"><img width="32px" alt="Twitter" title="Twitter" src="https://github.com/0xTRAW/0xTRAW/blob/main/.github/twitter.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/#" alt="Pentesting, Linux, Bug Bounty Pro Tips Discussion & Support Server"><img width="32px" src="https://github.com/0xTRAW/0xTRAW/blob/main/.github/discord.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/rahul-masal-100009196/" alt="Traw's linkedin"><img width="32px" height="26px"  src="https://github.com/0xTRAW/0xTRAW/blob/main/.github/mylinkedinicon.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  
-</p>
+
 
 
 <p align="center">
