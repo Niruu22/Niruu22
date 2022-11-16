@@ -1,6 +1,6 @@
 
 <h2 align="center">
-  Welcome to Niraj's Github!
+  Welcome to Rahul's Github!
  <img src="https://media.giphy.com/media/27UtynCENEhLgiAmik/giphy.gif" width="22" height="22">
 </h2>
 
@@ -8,22 +8,30 @@
 
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=A02CFD&width=435&lines=%F0%9F%91%8B+Hi!+Niraj+here+%3AD;An+enthusiastic+programmer+and;who+loves+to+explore%2C;automate%2C+break%2C;learn%2C+and+hack+all+things!;I+like+to+build+and;learn+in+the+open%2C;sharing+new+projects%2C+insights;and+thoughts%2C+both+on+Twitter;" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=A02CFD&width=435&lines=%F0%9F%91%8B+Hi!+Rahul+here+%3AD;An+enthusiastic+programmer+and;penetration+tester;who+loves+to+explore%2C;automate%2C+break%2C;learn%2C+and+hack+all+things!;I+like+to+build+and;learn+in+the+open%2C;sharing+new+projects%2C+insights;and+thoughts%2C+both+on+Twitter;" alt="Typing SVG" /></a>
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/c/knowinganddoing"><img width="32px" alt="Youtube" title="Youtube" src="https://github.com/0xTRAW/0xTRAW/blob/main/.github/purpleyoutube.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/Rahul_Masal_"><img width="32px" alt="Twitter" title="Twitter" src="https://github.com/0xTRAW/0xTRAW/blob/main/.github/twitter.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discord.gg/#" alt="Pentesting, Linux, Bug Bounty Pro Tips Discussion & Support Server"><img width="32px" src="https://github.com/0xTRAW/0xTRAW/blob/main/.github/discord.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/rahul-masal-100009196/" alt="Traw's linkedin"><img width="32px" height="26px"  src="https://github.com/0xTRAW/0xTRAW/blob/main/.github/mylinkedinicon.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  
 </p>
 
 
-
-
 <p align="center">
-  
-  
+  <a href="https://www.youtube.com/c/knowinganddoing?sub_confirmation=1">
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.herokuapp.com/youtube/channel/subscribers/UCerLzeXdyXGaXvZx1FSfJ1w?color=a020f0&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=8f00ff"/></a> 
+  <a href="https://www.youtube.com/c/knowinganddoing">
+    <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCerLzeXdyXGaXvZx1FSfJ1w?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
    <img alt="follow twitter" title="Follow Twitter" src="https://img.shields.io/twitter/follow/Rahul_Masal_?color=%2355960&logo=person-fill&label=twitter&style=for-the-badge&labelColor=1DA1F2"/></a> 
-
-
   <a href="https://github.com/rahul-masal?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/github/stars/0xtraw?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-
-
   <a href="https://github.com/rahul-masal?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/0xtraw?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
@@ -39,7 +47,7 @@
 </h2>
 
 <p align="center">
-  <a href="https://github.com/Niruu22/Exam-Portal"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Niruu22&repo=Exam-Portal&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="Exam-Portal"></a>
+  <a href="https://github.com/rahul-masal/Linux-Commands"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rahul-masal&repo=Linux-Commands&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="Linux-Commands"></a>
   <a href="https://github.com/rahul-masal/vim-cheatsheet-"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rahul-masal&repo=vim-cheatsheet-&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="vim-cheatsheet"></a>
   <a href="https://github.com/rahul-masal/cron-cheatsheet"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rahul-masal&repo=cron-cheatsheet&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="cron-cheatsheet"></a>
   <a href="https://github.com/rahul-masal/Grep-Cheatsheet"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rahul-masal&repo=Grep-Cheatsheet&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="Grep-Cheatsheet"></a>
@@ -84,6 +92,16 @@
     </p align="left">
 </p align="center">
 
+<h2 align="center">
+ 📺 YouTube videos
+</h2>
 
+<h3 align="center">
+  <img src="https://media.giphy.com/media/SEhNCww9vGLAc/giphy.gif" width="28">
+  <a href="https://www.youtube.com/c/knowinganddoing?sub_confirmation=1">
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.herokuapp.com/youtube/channel/subscribers/UCerLzeXdyXGaXvZx1FSfJ1w?color=a020f0&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=8f00ff"/></a> 
+ <img src="https://media.giphy.com/media/SEhNCww9vGLAc/giphy.gif" width="28">
+  
+ </h3>
 
  
