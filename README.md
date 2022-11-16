@@ -1,6 +1,6 @@
 
 <h2 align="center">
-  Welcome to Rahul's Github!
+  Welcome to Niraj's Github!
  <img src="https://media.giphy.com/media/27UtynCENEhLgiAmik/giphy.gif" width="22" height="22">
 </h2>
 
@@ -12,19 +12,25 @@
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/c/knowinganddoing"><img width="32px" alt="Youtube" title="Youtube" src="https://github.com/0xTRAW/0xTRAW/blob/main/.github/purpleyoutube.png"/></a>
+<!--   <a href="https://www.youtube.com/c/knowinganddoing"><img width="32px" alt="Youtube" title="Youtube" src="https://github.com/0xTRAW/0xTRAW/blob/main/.github/purpleyoutube.png"/></a> -->
+  
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/Rahul_Masal_"><img width="32px" alt="Twitter" title="Twitter" src="https://github.com/0xTRAW/0xTRAW/blob/main/.github/twitter.png"/></a>
+  
+  <a href="https://twitter.com/15Nirupatil"><img width="32px" alt="Twitter" title="Twitter" src="https://github.com/0xTRAW/0xTRAW/blob/main/.github/twitter.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/#" alt="Pentesting, Linux, Bug Bounty Pro Tips Discussion & Support Server"><img width="32px" src="https://github.com/0xTRAW/0xTRAW/blob/main/.github/discord.png"/></a>
+  
+<!--   
+  <a href="https://discord.gg/#" alt="Pentesting, Linux, Bug Bounty Pro Tips Discussion & Support Server"><img width="32px" src="https://github.com/0xTRAW/0xTRAW/blob/main/.github/discord.png"/></a> -->
+  
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/rahul-masal-100009196/" alt="Traw's linkedin"><img width="32px" height="26px"  src="https://github.com/0xTRAW/0xTRAW/blob/main/.github/mylinkedinicon.png"/></a>
+  
+  <a href="https://www.linkedin.com/in/niraj-saraf/" alt="Traw's linkedin"><img width="32px" height="26px"  src="https://github.com/0xTRAW/0xTRAW/blob/main/.github/mylinkedinicon.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   
 </p>
 
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://www.youtube.com/c/knowinganddoing?sub_confirmation=1">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.herokuapp.com/youtube/channel/subscribers/UCerLzeXdyXGaXvZx1FSfJ1w?color=a020f0&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=8f00ff"/></a> 
   <a href="https://www.youtube.com/c/knowinganddoing">
@@ -34,7 +40,7 @@
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/github/stars/0xtraw?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/rahul-masal?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/0xtraw?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-</p>
+</p> -->
 
 
 
