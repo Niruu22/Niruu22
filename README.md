@@ -14,20 +14,20 @@
 <!--Social Media-->
 <p align="center">
   <a href="https://twitter.com/15Nirupatil"><img width="32px" alt="Twitter" title="Twitter" src="https://github.com/0xTRAW/0xTRAW/blob/main/.github/twitter.png"/></a>
-  
+  &#8287;&#8287;&#8287;&#8287;&#8287;
 
   <a href="https://www.linkedin.com/in/niraj-saraf/" alt="Traw's linkedin"><img width="32px" height="26px"  src="https://github.com/0xTRAW/0xTRAW/blob/main/.github/mylinkedinicon.png"/></a>
-<!--   &#8287;&#8287;&#8287;&#8287;&#8287; -->
+  &#8287;&#8287;&#8287;&#8287;&#8287;
   
 </p>
 
 
-<!-- <p align="center">
+<p align="center">
   <a href="https://github.com/Niruu22?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/github/stars/0xtraw?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/Niruu22?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/0xtraw?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-</p> -->
+</p>
 
 <br/>
 
@@ -65,12 +65,6 @@
     <a href="https://github.com/search?q=user%3Amarlenezw+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
   </p align="left">
 </p align="center">
-
-
- 
-
-
-
 
 
  
