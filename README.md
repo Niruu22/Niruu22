@@ -36,15 +36,11 @@
 </h2>
 
 <p align="center">
-  <a href="https://github.com/Niruu22/Exam-Portal"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Niruu22&repo=Exam-Portal&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="Exam-Portal"></a>
-  
-  <a href="https://github.com/Niruu22/AIT-Practical-College-Website"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Niruu22&repo=AIT-Practical-College-Website&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="AIT-Practical-College-Website"></a>
-
-  <a href="https://github.com/Niruu22/Node.js-Tutorials"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Niruu22&repo=Node.js-Tutorials&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="Node.js-Tutorials"></a>
-
-  <a href="https://github.com/Niruu22/Angular-Practice"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Niruu22&repo=Angular-Practice&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="Angular-Practice"></a>
-
-  <a href="https://github.com/Niruu22/Java-Practice"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Niruu22&repo=Java-Practice&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="Java-Practice"></a>
+  <a href="https://github.com/rahul-masal/Linux-Commands"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rahul-masal&repo=Linux-Commands&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="Linux-Commands"></a>
+  <a href="https://github.com/rahul-masal/vim-cheatsheet-"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rahul-masal&repo=vim-cheatsheet-&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="vim-cheatsheet"></a>
+  <a href="https://github.com/rahul-masal/cron-cheatsheet"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rahul-masal&repo=cron-cheatsheet&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="cron-cheatsheet"></a>
+  <a href="https://github.com/rahul-masal/Grep-Cheatsheet"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rahul-masal&repo=Grep-Cheatsheet&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="Grep-Cheatsheet"></a>
+  <a href="https://github.com/rahul-masal/batch-scripting"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=rahul-masal&repo=batch-scripting&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="batch-scripting"></a>
 </p>
 
 <p align="center">
