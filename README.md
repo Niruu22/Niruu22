@@ -7,9 +7,7 @@
 
 
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=A02CFD&width=435&lines=%F0%9F%91%8B+Hi!+Niraj+here+%3AD;An+enthusiastic+programmer;who+loves+to+explore%2C;automate%2C+break%2C;learn%2C+and+hack+all+things!;I+like+to+build+and;learn+in+the+open%2C;sharing+new+projects%2C+insights;and+thoughts%2C+both+on+Twitter;" alt="Typing SVG" /></a>
-</p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chivo+Mono&size=15&pause=1000&color=D9B528F1&background=1E639700&width=435&lines=The+Master+Of+Computer+Application+Student+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;%40+Dr.+D+Y+Patil+School+of+MCA;I+like+%E2%9D%A4%EF%B8%8F+to+learn+and+build+the+web+Application+;also+MERN+Full+Stack+Application+%F0%9F%A4%9E" alt="Typing SVG" /></a></p>
 
 <!--Social Media-->
 <p align="center">
